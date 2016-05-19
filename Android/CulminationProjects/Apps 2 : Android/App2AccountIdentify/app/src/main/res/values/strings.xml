@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App2AccountIdentify</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcomePrompt">Welcome!</string>
+    <string name="title_activity_account_settings">Account Settings</string>
+    <string name="enterCredPrompt1">Please Enter Your Credentials Below</string>
+    <string name="enterCredPrompt2">Alter Your Account Information Below</string>
+    <string name="userNameLabel">Username:</string>
+    <string name="userPassLabel">Password:</string>
+    <string name="createAccountButton">Create Account</string>
+    <string name="credentialChangeLabel">New Username/Password:</string>
+    <string name="changeNameButton">Change Username</string>
+    <string name="changePassButton">Change Password</string>
+    <string name="goFirstView">First View</string>
+    <string name="goSecondView">Next View</string>
+
+</resources>

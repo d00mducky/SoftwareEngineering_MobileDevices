@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">App1AndroidPasskeyCheck</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="passkeyValidatorLabel">Passkey Validator</string>
+    <string name="generatePasskeyLabel">Generate A Random Passkey:</string>
+    <string name="generatePasskeyButton">Generate Passkey</string>
+    <string name="passKeyLabel">Your Passkey:</string>
+    <string name="validatePasskeyLabel">Validate (Enter) Your Generated Passkey:</string>
+    <string name="validatePasskeyButton">Validate Passkey</string>
+    <string name="validIndicatorLabel">Passkey is:</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwoChickenViews</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nextView">Next View</string>
+    <string name="title_activity_second">Chickens</string>
+    <string name="goFirstView">Go to First View</string>
+    <string name="promptViewTwo">Welcome to View Two!</string>
+
+</resources>

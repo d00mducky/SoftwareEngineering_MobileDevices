@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyRSSApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fetchRSS">FetchRSS</string>
+    <string name="mainTitle">MainTitle</string>
+    <string name="title">Title</string>
+    <string name="link">Link</string>
+    <string name="description">Description</string>
+    <string name="fetch">Fetch</string>
+
+</resources>
